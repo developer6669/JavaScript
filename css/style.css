@@ -1,0 +1,9 @@
+
+.flex{
+    display: flex;;
+}
+.flex button{
+    flex-grow: 1;
+    outline: none;    
+    margin: 2px;
+}

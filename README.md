@@ -1,6 +1,6 @@
 # JavaScript
 
-Hi,my name is meysam mahdinia , from iran mazadarn babol.I try to git my javascript project and you can use it.These are my javascript project :
+Hi,my name is meysam mahdinia , from iran mazadaran babol.I try to git my javascript projects and you can use them.These are my javascript projects :
 
 <a href="https://github.com/developer6669/JavaScript/tree/Calculator">01)
   Simple Calcutor
